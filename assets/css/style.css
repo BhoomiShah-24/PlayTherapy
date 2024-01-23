@@ -1153,7 +1153,12 @@ section {
     font-weight: bold;  /* Optionally, make the text bold */
     /* Add any additional styling you want */
 }
-
+@media (max-width: 767px) {
+   iframe {
+      width: 100%;
+      margin: 0; /* Reset any default margin */
+   }
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
