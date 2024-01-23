@@ -1148,6 +1148,12 @@ section {
   }
 }
 
+.sent-message {
+    color: green;  /* Set the text color to green */
+    font-weight: bold;  /* Optionally, make the text bold */
+    /* Add any additional styling you want */
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
