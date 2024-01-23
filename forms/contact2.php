@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 } else {
     // If the form is not submitted using POST method, redirect to the form page
-    header("Location: /path/to/your/form-page.html"); // Replace with the actual path
+    header("Location: PlayTherapy/index.html"); // Replace with the actual path
     exit();
 }
 ?>
