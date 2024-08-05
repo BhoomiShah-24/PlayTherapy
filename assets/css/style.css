@@ -927,6 +927,11 @@ section {
   fill: #11dbcf;
 }
 
+.services .section-title p {
+  text-align: left; /* Explicitly set each element to be left-aligned */
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
